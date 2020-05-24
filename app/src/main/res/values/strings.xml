@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MaflApp</string>
+    <string name="TabLayout_tab1">Tab1</string>
+    <string name="TabLayout_tab2">Tab2</string>
+    <string name="TabLayout_tab3">Tab3</string>
+    <string name="PlainText_test">Pantalla Principal</string>
+    <string name="Text_mascarillas">Mascarillas</string>
+    <string name="Text_MASCARILLAS">MASCARILLAS</string>
+    <string name="Text_limpieza">Limpieza</string>
+    <string name="Text_LIMPIEZA">LIMPIEZA</string>
+    <string name="Text_Ofertas">Ofertas</string>
+    <string name="Text_OFERTAS">OFERTAS</string>
+    <string name="Test_Nomb">Nombre Objeto</string>
+    <string name="Test_Desc">Descripcion Objeto</string>
+    <string name="Text_Precio">Precio</string>
+</resources>
